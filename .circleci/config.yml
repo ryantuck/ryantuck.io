@@ -7,9 +7,9 @@ jobs:
     steps:
       - checkout
       - run:
-          name: install mkdocs
+          name: install mkdocs and awscli
           command: |
-            sudo pip install mkdocs mkdocs-material
+            sudo pip install mkdocs mkdocs-material awscli
       - run:
           name: build site
           command: |

@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  deploy-site:
     docker:
       - image: circleci/python:3.6.1
     working_directory: ~/repo
@@ -18,3 +18,13 @@ jobs:
           name: deploy site
           command: |
             aws s3 sync site s3://ryantuck.io
+
+workflows:
+  version: 2
+  deploy-site:
+    jobs:
+      - deploy-site:
+          filters:
+            branches:
+              only:
+                - master

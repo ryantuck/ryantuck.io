@@ -1,0 +1,20 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - run:
+          name: install mkdocs
+          command: |
+            sudo pip install mkdocs mkdocs-material
+      - run:
+          name: build site
+          command: |
+            mkdocs build
+      - run:
+          name: deploy site
+          command: |
+            aws s3 sync site s3://ryantuck.io

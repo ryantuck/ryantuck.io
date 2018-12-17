@@ -1,4 +1,23 @@
 site_name: Ryan Tuck
+
+repo_name: 'ryantuck/ryantuck.io'
+repo_url: 'https://github.com/ryantuck/ryantuck.io'
+edit_uri: ''
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/ryantuck'
+    - type: 'twitter'
+      link: 'https://twitter.com/ryntck'
+
+theme:
+  name: material
+  palette:
+    primary: 'green'
+    accent: 'green'
+  logo:
+    icon: 'power_settings_new'
+
 nav:
   - home: index.md
-theme: material
+

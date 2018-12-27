@@ -18,6 +18,24 @@ jobs:
           name: deploy site
           command: |
             aws s3 sync site s3://ryantuck.io
+  deploy-dev-branch-site:
+    docker:
+      - image: circleci/python:3.6.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - run:
+          name: install mkdocs and awscli
+          command: |
+            sudo pip install mkdocs mkdocs-material awscli
+      - run:
+          name: build site
+          command: |
+            mkdocs build
+      - run:
+          name: deploy site
+          command: |
+            aws s3 cp site s3://ryantuck.io/dev/${CIRCLE_BRANCH} --recursive
 
 workflows:
   version: 2
@@ -28,3 +46,11 @@ workflows:
             branches:
               only:
                 - master
+  deploy-dev-branch-site:
+    jobs:
+      - deploy-dev-branch-site:
+          filters:
+            branches:
+              ignore:
+                - master
+

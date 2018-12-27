@@ -35,7 +35,7 @@ jobs:
       - run:
           name: deploy site
           command: |
-            aws s3 cp site s3://ryantuck.io/dev/${CIRCLE_BRANCH}
+            aws s3 cp site s3://ryantuck.io/dev/${CIRCLE_BRANCH} --recursive
 
 workflows:
   version: 2

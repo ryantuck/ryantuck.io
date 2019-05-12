@@ -30,6 +30,7 @@ nav:
   - Notes:
     - gpsread: notes/gspread.md
     - S3 Site: notes/s3_site.md
+    - SQL Tricks: notes/sql_tricks.md
     - Postgres: notes/postgres.md
     - psql: notes/psql.md
     - sed: notes/sed.md

@@ -10,14 +10,36 @@ extra:
     - type: 'twitter'
       link: 'https://twitter.com/ryntck'
 
+markdown_extensions:
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+
 theme:
   name: material
   palette:
-    primary: 'green'
+    primary: 'blue grey'
     accent: 'green'
   logo:
     icon: 'power_settings_new'
 
 nav:
-  - home: index.md
-
+  - Home: index.md
+  - Links: links.md
+  - Lists: lists.md
+  - Ideas: ideas.md
+  - Notes:
+    - gpsread: notes/gspread.md
+    - S3 Site: notes/s3_site.md
+    - Postgres: notes/postgres.md
+    - psql: notes/psql.md
+    - sed: notes/sed.md
+    - sqlalchemy: notes/sqlalchemy.md
+    - Generate ssh key: notes/generate_ssh_key.md
+  - Projects:
+    - Dumb birthdays: projects/dumb_birthdays.md
+    - N choose k: projects/n_choose_k.md
+    - SQL to csv script: projects/sql_to_csv.md
+    - todo cli: projects/todo_cli.md
+    - web cli: projects/web_cli.md
+  - Todo: todo.md
+  - Etc: etc.md

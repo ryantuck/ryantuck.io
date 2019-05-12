@@ -1,0 +1,63 @@
+I surf the world wide web, and find cool links.
+
+- [colormind.io](http://colormind.io)
+- [computers-are-fast.github.io](http://computers-are-fast.github.io)
+- [sicp](http://sarabander.github.io/sicp/)
+- [bash tips](http://jvns.ca/blog/2017/03/26/bash-quirks/)
+- [emoji list](https://apps.timwhitlock.info/emoji/tables/unicode)
+- [ultimate snowboarding guide](https://www.xfive.co/blog/snowboarding-ultimate-guide)
+- [voting systems](https://ncase.me/ballot/)
+- [ladder of abstraction](http://worrydream.com/LadderOfAbstraction/)
+- [a16z ai playbook](http://aiplaybook.a16z.com/)
+- [blogging style guide](https://robertheaton.com/2018/12/06/a-blogging-style-guide/)
+- [google sheets formulas](https://codingisforlosers.com/google-sheets-formulas/)
+- [wizardzines](https://wizardzines.com/)
+- [e8 248 degree symmetry](https://www.newscientist.com/article/dn11410-mathematicians-finally-map-248-dimension-structure/)
+- [planet hopf gauge theory](https://www.math.toronto.edu/drorbn/Gallery/KnottedObjects/PlanetHopf/index2.html)
+- [arxiv-vanity - view arxiv pubs in html](https://www.arxiv-vanity.com)
+- [euclid's elements](https://www.c82.net/euclid/)
+- [data visualization in R](https://socviz.co/lookatdata.html)
+- [links for shell tools](https://github.com/trimstray/the-book-of-secret-knowledge)
+- <https://seeing-theory.brown.edu/>
+- <https://deeplearning.mit.edu/>
+- <http://www.pachyderm.io> - data workflow tool
+- <https://material.io/>
+- [3d world population visualization](https://pudding.cool/2018/10/city_3d/)
+- <https://www.pinkelephantasia.com/three-ways-devops/>
+- [regex cheat sheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- <https://s-poony.github.io/Ultra-Square-Catcher-USC-/jeuvideo.html>
+- <https://karpathy.github.io/neuralnets/>
+- [TrustPilot tech principles](https://github.com/trustpilot/principles/blob/master/README.md)
+- Opt out of junk mail
+    - <https://www.optoutprescreen.com/>
+    - <https://dmachoice.thedma.org/register.php>
+- Random GitHub projects
+    - <https://vsoch.github.io/watchme/>
+    - <https://github.com/3b1b/manim>
+- <http://www.somesolvedproblems.com/2019/04/real-life-examples-of-various.html?m=1>
+- another personal wiki that inspired this one https://wiki.nikitavoloboev.xyz/
+- https://lopp.net/bitcoin.html
+- https://www.pakin.org/~scott/stereograms/
+- https://www.lesswrong.com/
+- https://xph.us/2013/01/22/inbox-zero-for-life.html
+- http://immersivemath.com/ila/index.html
+- https://undraw.co
+- https://www.statisticsdonewrong.com/
+- https://www.dwitter.net/
+- https://facelessuser.github.io/pymdown-extensions/
+- https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+- self study math https://news.ycombinator.com/item?id=18939913
+- https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
+- https://aplawrence.com/Basics/gpg.html
+- http://sorting.at/
+- https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws
+- https://www.eldo.co/football.html
+- https://www.humaaans.com/
+- https://slackthemes.net/#/retro_monochrome_terminal
+- https://vim.rtorr.com/
+- https://glitch.com/
+- https://golden.com
+- https://tryretool.com
+- https://www.colorbox.io/
+- https://sonic-pi.net/
+- https://trello.com/b/alB1ryRP/ideas

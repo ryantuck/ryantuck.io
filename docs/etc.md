@@ -24,6 +24,28 @@
 <br>
 > "I think the true discovery of America is before us. I think the true fulfillment of our spirit, of our people, of our mighty and immortal land, is yet to come. I think the true discovery of our own democracy is still before us. And I think that all these things are certain as the morning, as inevitable as noon. I think I speak for most men living when I say that our America is Here, is Now, and beckons on before us, and that this glorious assurance is not only our living hope, but our dream to be accomplished."
 > - Thomas Wolfe, You Can't Go Home Again
-<br>
 
+<br>
 > "All meetings should be ten minutes or two hours."
+
+<br>
+> Programs must be written for people to read, and only incidentally for machines to execute. –Hal Abelson and Gerald Sussman, Structure and Interpretation of Computer Programs
+
+<br>
+> The most important skill for a programmer is the ability to effectively communicate ideas. – Gastón Jorquera
+
+<br>
+> The ability to simplify means to eliminate the unnecessary so that the necessary may speak. –Hans Hofmann
+
+<br>
+> Design is the art of arranging code to work today, and be changeable forever. – Sandi Metz
+
+<br>
+> If software cannot be maintained, it will be rewritten.
+
+
+
+
+
+
+

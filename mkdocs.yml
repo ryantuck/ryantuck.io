@@ -9,6 +9,8 @@ extra:
       link: 'https://github.com/ryantuck'
     - type: 'twitter'
       link: 'https://twitter.com/ryntck'
+    - type: 'instagram'
+      link: 'https://instagram.com/ryntck'
 
 markdown_extensions:
   - pymdownx.tasklist:
@@ -19,8 +21,8 @@ theme:
   palette:
     primary: 'blue grey'
     accent: 'green'
-  logo:
-    icon: 'power_settings_new'
+  logo: 'img/self.svg'
+  #    icon: 'power_settings_new'
 
 nav:
   - Home: index.md

@@ -61,3 +61,7 @@ I surf the world wide web, and find cool links.
 - https://www.colorbox.io/
 - https://sonic-pi.net/
 - https://trello.com/b/alB1ryRP/ideas
+- https://www.meltingasphalt.com/interactive/going-critical/
+- https://ncase.me/polygons/
+- https://distill.pub/
+- http://www.mandelbulb.com/

@@ -38,6 +38,7 @@ nav:
     - sed: notes/sed.md
     - sqlalchemy: notes/sqlalchemy.md
     - Generate ssh key: notes/generate_ssh_key.md
+    - etc: notes/etc.md
   - Projects:
     - Dumb birthdays: projects/dumb_birthdays.md
     - N choose k: projects/n_choose_k.md

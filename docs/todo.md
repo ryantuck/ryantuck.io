@@ -62,6 +62,8 @@
 - make sure mobile doesn't look like shit
 - outlines are better than blogposts in that they don't age, but you lose style.
 - don't require carats around links
+- designs for inventions
+- publish dotfiles, other greatest hits for github
 
 
 

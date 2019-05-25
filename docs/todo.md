@@ -2,28 +2,29 @@
 
 ## Backlog
 
-- UBA
+- America
+- Astrology
 - Ayn Rand and what I think about everyone disliking her
-- Words I don't like
+- Bayesian
 - Brave New World was okay
-- Striving towards GTD
+- Death
+- Design of site
+- Electoral college
+- Ethics of a whole lot of other stuff
+- Ethics of vegetarianism
+- External
+    - spotify, maps, etc.
+- Half-baked thoughts
+- Highlights of cool code projects
 - How I try to be productive
 - How hard being productive is
-- Ethics of vegetarianism
-- Ethics of a whole lot of other stuff
-- Death
-- Astrology
-- Half-baked thoughts
-- Recommended twitter follows
-- Lists of stuff to remember
-- Karaoke songs
 - Ideas
-- What I've learned about economics
-- Design of site
-- Weed and other drugs
 - Intellectual Property
-- America
-- Bayesian
+- Karaoke songs
+- Lists
+    - movies
+    - restaurants
+- Lists of stuff to remember
 - Opinions
     - Religion
     - Cleaning
@@ -39,15 +40,15 @@
     - Materialism
     - Student debt
     - Cultural appropriation
-- Highlights of cool code projects
-- Stuff about software
-- Resume?
 - Quotes
-- Lists
-    - movies
-    - restaurants
-- External
-    - spotify, maps, etc.
+- Recommended twitter follows
+- Resume?
+- Striving towards GTD
+- Stuff about software
+- UBA
+- Weed and other drugs
+- What I've learned about economics
+- Words I don't like
 
 
 

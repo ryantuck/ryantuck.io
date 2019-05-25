@@ -65,3 +65,9 @@ I surf the world wide web, and find cool links.
 - https://ncase.me/polygons/
 - https://distill.pub/
 - http://www.mandelbulb.com/
+- https://statmodeling.stat.columbia.edu/
+- http://www.elidedbranches.com/2019/05/opp-other-peoples-problems.html?m=1
+- [youtube - the beauty of calculus](https://www.youtube.com/watch?v=1r6893ga_So)
+- https://jaycarlson.net/microcontrollers/
+- https://cssfx.dev/
+- https://increment.com/documentation/

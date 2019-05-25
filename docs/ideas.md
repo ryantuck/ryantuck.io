@@ -18,4 +18,16 @@ Great ideas, ripe for the pickin'.
 - Musician tipping app, because no one carries cash (QR code, straight to venmo> Just venmo?)
 - Thanks and sorry lights back of car
 - Queue line with finite amount of choices for switching lines - feeling of agency and order
+- Ad network across multiple sites with opt-ins to reasonable policies
+- Better map sharing service online
+- Installable window screens with flexible edges for tight fitting
+- Some twitter plugin whereby tweets get categorized using NLP / mechanical
+    turks - to highlight likelihood a tweet is just signaling, actually true,
+    based on user's past tweets and reliable past categorization
+- Computer vision for plant veins area analysis
+- Stackable rubber rings for storing pan lids
+- Hibachi for other cuisines
+- Customer discounts for helpful behavior
+    - Ride share - pay more faster arrival
+    - Scooters - parking optimization
 

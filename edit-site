@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "editing: $1"
+vim ~/src/ryantuck.io/docs/$1.md

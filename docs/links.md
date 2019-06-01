@@ -71,3 +71,6 @@ I surf the world wide web, and find cool links.
 - https://jaycarlson.net/microcontrollers/
 - https://cssfx.dev/
 - https://increment.com/documentation/
+- https://material-ui.com/
+- http://socviz.co/
+- https://uibot.app

@@ -64,6 +64,7 @@
 - don't require carats around links
 - designs for inventions
 - publish dotfiles, other greatest hits for github
+- generate one-time shopping list - copy s3 file or something?
 
 
 

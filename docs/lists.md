@@ -3,6 +3,12 @@
 Here's a bunch of lists of stuff I enjoy.
 
 
+## Cool stuff to google
+
+- Fermi Paradox
+- Mental models
+
+
 ## Podcasts
 
 - Econtalk

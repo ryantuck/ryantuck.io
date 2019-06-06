@@ -15,3 +15,16 @@ Grab-bag of notes.
 https://shapeshed.com/vim-netrw/ has great stuff about `netrw` and navigating
 files
 
+## `git`
+
+Set upstream branch on forked repo:
+
+```
+git remote add upstream git@github.com:official/repo.git
+```
+
+Update origin url:
+
+```
+git remote set-url origin git@github.com:my/origin.git
+```

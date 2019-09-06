@@ -1,49 +1,68 @@
 site_name: Ryan Tuck
 
 repo_name: 'ryantuck/ryantuck.io'
-repo_url: 'https://github.com/ryantuck/ryantuck.io'
-edit_uri: ''
 extra:
   social:
     - type: 'github'
       link: 'https://github.com/ryantuck'
+    - type: 'stack-overflow'
+      link: 'https://stackoverflow.com/users/1700270/ryan-tuck'
     - type: 'twitter'
       link: 'https://twitter.com/ryntck'
     - type: 'instagram'
       link: 'https://instagram.com/ryntck'
+# disable editing
+edit_uri: ''
+
+extra_css:
+  - 'stylesheets/extra.css'
 
 markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
   - pymdownx.tasklist:
+      custom_checkbox: true
       clickable_checkbox: true
+  - pymdownx.tilde
 
 theme:
   name: material
   palette:
-    primary: 'blue grey'
+    primary: 'black'
     accent: 'green'
-  logo: 'img/self.svg'
-  #    icon: 'power_settings_new'
+  logo:
+    icon: 'cloud_queue'
+    # more here: https://material.io/resources/icons/
+    #icon: 'power_settings_new'
+    #icon: 'equalizer'
+    #icon: 'public'
+    #icon: 'fingerprint'
+  favicon: 'img/self.png'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
 
 nav:
   - Home: index.md
-  - Links: links.md
-  - Lists: lists.md
   - Ideas: ideas.md
-  - Notes:
-    - gpsread: notes/gspread.md
+  - Code Reference:
+    - New Machine: notes/new_machine.md
     - S3 Site: notes/s3_site.md
-    - SQL Tricks: notes/sql_tricks.md
-    - Postgres: notes/postgres.md
-    - psql: notes/psql.md
-    - sed: notes/sed.md
-    - sqlalchemy: notes/sqlalchemy.md
-    - Generate ssh key: notes/generate_ssh_key.md
     - etc: notes/etc.md
-  - Projects:
+  - Tools:
     - Dumb birthdays: projects/dumb_birthdays.md
-    - N choose k: projects/n_choose_k.md
     - SQL to csv script: projects/sql_to_csv.md
     - todo cli: projects/todo_cli.md
     - web cli: projects/web_cli.md
-  - Todo: todo.md
-  - Etc: etc.md

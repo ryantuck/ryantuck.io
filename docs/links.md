@@ -74,3 +74,7 @@ I surf the world wide web, and find cool links.
 - https://material-ui.com/
 - http://socviz.co/
 - https://uibot.app
+- https://bloom.sh/
+- https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+- https://github.com/rmcelreath/statrethinking_winter2019
+- https://www.pudding.cool/

@@ -30,4 +30,5 @@ Great ideas, ripe for the pickin'.
 - Customer discounts for helpful behavior
     - Ride share - pay more faster arrival
     - Scooters - parking optimization
+- A tiny RGB LED connected to a watch battery is a great and cheap always-on nightlight
 

@@ -11,7 +11,7 @@
 ## Quotes
 
 > "There are no passengers on spaceship earth. We are all crew."
-> - Marshall McLuhan
+>> Marshall McLuhan
 
 <br>
 > "If it doesn't engage me, I leave it. I do not do homework with my life."

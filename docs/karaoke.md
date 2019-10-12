@@ -1,62 +1,8 @@
-# Lists
+# karaoke
 
-Here's a bunch of lists of stuff I enjoy.
+Running list of karaoke songs I've written down at one point, so I don't have to scramble the next time I'm at a karaoke bar and forget a great song.
 
-
-## Cool stuff to google
-
-- Fermi Paradox
-- Mental models
-
-
-## Podcasts
-
-- Econtalk
-- Rationally Speaking
-- Making Sense
-- Extremely Offline
-- The Good Fight
-- The Joe Rogan Experience
-- Mindscape
-- 80,000 Hours
-
-
-## Books
-
-Some great books I've read recently or ever:
-
-- _The Brothers Karamazov_ - Dostoevsky
-- _Crime and Punishment_ - Dostoevsky
-- _East of Eden_ - John Steinbeck
-- _The Pearl_ - John Steinbeck
-- _The Octopus_ - Frank Norris
-- _Sapiens_ - Yuval Harari
-- _Homo Deus_ - Yuval Harari
-- _Our Posthuman Future_ - Francis Fukuyama
-- _The End of History_ - Francis Fukuyama
-- _Cryptonomicon_ - Neal Stephenson
-- _Les Miserables_ - Victor Hugo
-- _Atlas Shrugged_ - Ayn Rand (yeah yeah I know)
-- _Being and Time_ - Martin Heidegger
-- _Godel Escher Bach_ - Douglas Hofstadter
-- _The Innovators_ - Walter Isaacson
-- _The Information_ - James Gleick
-- _Chaos_ - James Gleick
-- _The Republic_ - Plato
-- _Narcissus and Goldmund_ - Hermann Hesse
-- _Siddhartha_ - Hermann Hesse
-- _Demian_ - Hermann Hesse
-- _Ender's Game_ - Orson Scott Card
-- _Dune_ - Frank Herbert
-- _Watership Down_ - Richard Adams
-- _The God Delusion_ - Richard Dawkins
-
-## Excellent products
-
-- Arm and Hammer Clump n Seal
-
-## Karaoke
-
+Numbers usually correspond to those books in every NYC karaoke bar.
 
 - 100 years 113079
 - 22
@@ -76,7 +22,6 @@ Some great books I've read recently or ever:
 - Changes 132434
 - Come sail away
 - Cowboy
-- Cowboy 19346
 - Crazy town
 - Creed
 - Cups 126661
@@ -100,6 +45,7 @@ Some great books I've read recently or ever:
 - I could have lied
 - I knew you were trouble
 - Insane in the membrane
+- Knockin' boots
 - Landed 113459
 - Lennon
 - Let it go 126995
@@ -110,7 +56,6 @@ Some great books I've read recently or ever:
 - Moon dance 131088
 - My way 111942
 - Never let me go 125988
-- Nookie 118272
 - Nookie 118272
 - One mic
 - Only one
@@ -126,7 +71,6 @@ Some great books I've read recently or ever:
 - Screaming infidelities
 - Smack water jack 132131
 - Spectrum 123208
-- Spectrum 123208
 - Starlight - Taylor Swift
 - Strokes 1251 113034
 - Taylor swift
@@ -136,11 +80,9 @@ Some great books I've read recently or ever:
 - Tiny dancer 100417
 - Total eclipse of the heart
 - Vindicated
-- Vindicated
 - Wagon wheel
 - Way I am 102268
 - Why jadakiss 13340
 - Your body is a wonderland 12451
-- can't take my eyes off of you
-- tina turner - look me in the heart
-- tina turner - the best
+- Tina Turner - look me in the heart
+- Tina Turner - the best

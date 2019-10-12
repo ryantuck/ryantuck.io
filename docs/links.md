@@ -1,4 +1,6 @@
-I surf the world wide web, and find cool links.
+# links
+
+Ever-growing list of neat links I find while surfing the world wide web.
 
 - [colormind.io](http://colormind.io)
 - [computers-are-fast.github.io](http://computers-are-fast.github.io)
@@ -78,3 +80,26 @@ I surf the world wide web, and find cool links.
 - https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 - https://github.com/rmcelreath/statrethinking_winter2019
 - https://www.pudding.cool/
+- http://mathlets.org/mathlets/
+- https://streamlit.io
+- https://n8n.io/ open source zapier
+- https://futureofcoding.org/catalog/
+- https://www.nature.com/articles/d41586-019-02918-5 Cormac McCarthy on writing good science papers
+- self-guided CS https://github.com/ossu/computer-science
+- you need a wiki - google docs wiki https://youneedawiki.com
+- https://www.hackerrank.com
+- https://www.tablesgenerator.com/markdown_tables
+- https://meltano.com open source data dashboarding
+- https://beancount.github.io/fava/
+- https://github.com/viraptor/reverse-interview
+- https://github.com/topics/awesome
+- https://gchq.github.io/CyberChef/
+- https://cube.dev/ analytics in js
+- https://dougblack.io/words/a-good-vimrc.html
+- https://vim.fandom.com/wiki/Switch_color_schemes#One_page_summary_of_color_schemes
+- http://howardism.org/Technical/Emacs/literate-devops.html
+- https://skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/
+- http://psytranceguide.com/
+- https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90 small data engineering
+- https://guzey.com/productivity/
+

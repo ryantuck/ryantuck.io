@@ -1,5 +1,29 @@
 site_name: Ryan Tuck
 
+# navigiation, no breathin
+nav:
+  - home: index.md
+  - new machine: new_machine.md
+  - s3 site: s3_site.md
+  - git: git.md
+  - vim: vim.md
+  - karaoke: karaoke.md
+  - groceries: groceries.md
+  - links: links.md
+
+theme:
+  name: material
+  palette:
+    primary: 'black'
+    accent: 'green'
+  logo:
+    # more here: https://material.io/resources/icons/
+    icon: 'cloud_queue'
+  favicon: 'img/self.png'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
 repo_name: 'ryantuck/ryantuck.io'
 extra:
   social:
@@ -36,33 +60,5 @@ markdown_extensions:
       clickable_checkbox: true
   - pymdownx.tilde
 
-theme:
-  name: material
-  palette:
-    primary: 'black'
-    accent: 'green'
-  logo:
-    icon: 'cloud_queue'
-    # more here: https://material.io/resources/icons/
-    #icon: 'power_settings_new'
-    #icon: 'equalizer'
-    #icon: 'public'
-    #icon: 'fingerprint'
-  favicon: 'img/self.png'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
 
 
-nav:
-  - Home: index.md
-  - Ideas: ideas.md
-  - Code Reference:
-    - New Machine: notes/new_machine.md
-    - S3 Site: notes/s3_site.md
-    - etc: notes/etc.md
-  - Tools:
-    - Dumb birthdays: projects/dumb_birthdays.md
-    - SQL to csv script: projects/sql_to_csv.md
-    - todo cli: projects/todo_cli.md
-    - web cli: projects/web_cli.md

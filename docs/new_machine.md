@@ -6,7 +6,7 @@ Get a new macOS device and make sure it gets up to speed real quick.
 
 get brew http://brew.sh/
 
-`brew install git python vim tmux postgresql node bash-completion`
+`brew install git python vim tmux postgresql node bash-completion tree`
 
 ## keyboard
 

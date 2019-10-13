@@ -10,6 +10,7 @@ nav:
   - karaoke: karaoke.md
   - groceries: groceries.md
   - links: links.md
+  - mtg arena on aws: mtg-arena-on-aws.md
 
 theme:
   name: material

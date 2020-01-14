@@ -6,11 +6,14 @@ nav:
   - new machine: new_machine.md
   - s3 site: s3_site.md
   - git: git.md
+  - telnet: telnet.md
   - vim: vim.md
   - karaoke: karaoke.md
   - groceries: groceries.md
   - links: links.md
   - mtg arena on aws: mtg-arena-on-aws.md
+  - hot sauce: hotsauce.md
+  - nyc: nyc.md
 
 theme:
   name: material

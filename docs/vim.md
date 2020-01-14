@@ -13,5 +13,6 @@
 - `:set linebreak` allows for soft line wraps
 - `:set columns=80` will limit the maximum number of columns to display to 80. This works nicely with `:set linebreak` to create a nice UI for writing text.
 - `:g/=/d` will delete all lines that contain `=`
+- `Ctrl+N/P` provides autocompletion for words already defined in your file.
 
 https://shapeshed.com/vim-netrw/ has great stuff about `netrw` and navigating files

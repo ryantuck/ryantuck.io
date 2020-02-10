@@ -9,6 +9,7 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - A favor house Atlantic
 - All coming back to me
 - All or nothing 111111
+- Roxanne - Arizona Zervas
 - Always be my baby 100420
 - Always be my baby 134604
 - Baby come back
@@ -26,6 +27,7 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - Creed
 - Cups 126661
 - Dancing in the dark
+- Devil went down to Georgia
 - Dirty Diana 5086
 - Don't wanna miss a thing
 - Down with the sickness
@@ -35,6 +37,7 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - Fat bottom girls
 - Feelin the same way 112852
 - Fireflies
+- Five more minutes
 - Florence
 - Gangstas paradise
 - Go your own way
@@ -55,6 +58,7 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - Mambo number 5
 - Moon dance 131088
 - My way 111942
+- NWA
 - Never let me go 125988
 - Nookie 118272
 - One mic
@@ -77,6 +81,8 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - The anthem 112688
 - The gambler 116464
 - Thunder road
+- Tina Turner - look me in the heart
+- Tina Turner - the best
 - Tiny dancer 100417
 - Total eclipse of the heart
 - Vindicated
@@ -84,5 +90,3 @@ Numbers usually correspond to those books in every NYC karaoke bar.
 - Way I am 102268
 - Why jadakiss 13340
 - Your body is a wonderland 12451
-- Tina Turner - look me in the heart
-- Tina Turner - the best

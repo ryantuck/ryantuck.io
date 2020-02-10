@@ -102,4 +102,10 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - http://psytranceguide.com/
 - https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90 small data engineering
 - https://guzey.com/productivity/
-
+- https://undraw.co/
+- pyrobot (github)
+- https://bookwithmatrix.com/ for travel stuff
+- https://reading.supply/explorer very cool graph explorer #google
+- https://github.com/hoanhan101/algo #google
+- https://brilliant.org/
+- good solo dev blogs https://news.ycombinator.com/item?id=22273224

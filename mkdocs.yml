@@ -3,6 +3,7 @@ site_name: Ryan Tuck
 # navigiation, no breathin
 nav:
   - home: index.md
+  - ideas: ideas.md
   - new machine: new_machine.md
   - s3 site: s3_site.md
   - git: git.md

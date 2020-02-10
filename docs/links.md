@@ -109,3 +109,39 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - https://github.com/hoanhan101/algo #google
 - https://brilliant.org/
 - good solo dev blogs https://news.ycombinator.com/item?id=22273224
+- https://tryretool.com
+- https://faastjs.org/
+- https://www.colorbox.io/
+- https://sonic-pi.net/
+- https://dbdiagram.io
+- draw.io
+- parabola.io
+- https://github.com/looker/actions
+- http://third-bit.com/2019/04/10/what-docs-and-when.html
+- https://seekwell.io
+- https://cstack.github.io/db_tutorial/
+- http://viz-js.com/ - graphviz in browser
+- https://www.latex4technics.com/
+- https://neilkakkar.com/sapiens.html
+- http://getpocket.com/explore/item/why-you-need-an-untouchable-day-every-week
+- https://basecamp.com/shapeup
+- https://www.tommycollison.com/books
+- https://perceptiongap.us/
+- https://seths.blog/top-100/
+- https://seths.blog/2019/07/two-kinds-of-insurance/
+- https://betterexplained.com/articles/the-quick-guide-to-guids/
+- https://tobyrush.com/theorypages/index.html
+- https://vfoley.xyz/lesser-known-coding-fonts/
+- https://sheety.co
+- https://github.com/dwmkerr/hacker-laws
+- https://postgrest.org/en/v6.0/
+- https://dataschool.com/data-governance/
+- https://github.com/mgartner/pg_flame
+- https://fs.blog/mental-models/
+- http://msaavedra.com/posts/my-personal-linklog/
+- https://danielsada.tech/blog/cloud-services-dos/
+- https://easydb.io/ - one-click ephemeral database in python/javascript
+- daff - data diff https://paulfitz.github.io/daff-doc/spec.html
+- https://github.com/TrillCyborg/fullstack
+- https://observablehq.com/@d3/bar-chart-race-explained
+- https://sites.uci.edu/inertialobserver/mathematics-for-physics-crash-course/

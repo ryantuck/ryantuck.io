@@ -290,3 +290,13 @@ Simpler `man` pages:
 ```
 npm install -g tldr
 ```
+
+## Case-insensitive bash autocomplete
+
+Add the following to `~/.inputrc`:
+
+```
+set completion-ignore-case on
+```
+
+Then hit `^X^R` to reload it

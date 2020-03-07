@@ -2,4 +2,16 @@
     display: none;
 }
 
-* { font-family: Courier; }
+
+/* { font-family: Monaco; }
+
+/*
+p { font-family: Palatino; }
+li { font-family: Palatino; }
+*/
+
+
+.md-typeset h1 { color: magenta; }
+h2 { color: red; }
+h3 { color: green; }
+h4 { color: blue; }

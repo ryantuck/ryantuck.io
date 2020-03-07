@@ -19,6 +19,7 @@
     - `[s` to go to previous misspelled word
     - `zg` to add word under cursor to `spellfile`
 - `Ctrl+N/P` provides autocompletion for words already defined in your file.
+- `:! <command>` to run commands from a vim window
 
 https://shapeshed.com/vim-netrw/ has great stuff about `netrw` and navigating files
 

@@ -4,17 +4,20 @@ site_name: Ryan Tuck
 nav:
   - home: index.md
   - ideas: ideas.md
-  - new machine: new_machine.md
-  - s3 site: s3_site.md
-  - git: git.md
-  - telnet: telnet.md
-  - vim: vim.md
-  - karaoke: karaoke.md
-  - groceries: groceries.md
-  - links: links.md
-  - mtg arena on aws: mtg-arena-on-aws.md
-  - hot sauce: hotsauce.md
-  - nyc: nyc.md
+  - tech notes:
+    - new machine: new_machine.md
+    - git: git.md
+    - telnet: telnet.md
+    - vim: vim.md
+    - s3 site: s3_site.md
+  - lists:
+    - karaoke: karaoke.md
+    - groceries: groceries.md
+    - links: links.md
+  - more:
+    - mtg arena on aws: mtg-arena-on-aws.md
+    - hot sauce: hotsauce.md
+    - nyc: nyc.md
 
 theme:
   name: material
@@ -26,7 +29,7 @@ theme:
     icon: 'cloud_queue'
   favicon: 'img/self.png'
   font:
-    text: 'Roboto'
+    text: 'Roboto Mono'
     code: 'Roboto Mono'
 
 repo_name: 'ryantuck/ryantuck.io'
@@ -47,6 +50,7 @@ extra_css:
   - 'stylesheets/extra.css'
 
 markdown_extensions:
+  - admonition
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -64,6 +68,7 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true
   - pymdownx.tilde
+  - fontawesome_markdown
 
 
 

@@ -1,6 +1,6 @@
 # Ideas
 
-
+Plenty of ideas, free for sharing, because execution is the hard part.
 
 ## Physical
 
@@ -16,7 +16,9 @@ Worst case, make something that can prop up on a table.
 
 ### One-handed bowl lighter
 
-I shouldn't need two hands to smoke a bowl!
+If one were to partake in smoking CBD in a bowl, I might imagine that one might want to be able to do so with one hand.
+
+One may even desire to construct such an object such that it may clip onto said piece.
 
 ### Nuanced shower handle
 
@@ -166,6 +168,66 @@ This probably exists.
 ### Fully-manual iOS camera app
 
 This probably exists. Allow user to configure aperture, etc.
+
+### Drag-n-drop unix tools
+
+Some scratch-like interface for unix tools in a sandboxed environment would be sweet.
+
+The idea here is piping `xargs` to `sed` to etc.
+
+The tech could be a pretty simple lambda backend to read in lines of stdin. Would still cohere to the principles of running on a given machine.
+
+
+
+## Half-baked
+
+Little-to-no-thought has been put into curating these. Buyer beware.
+
+- There's gotta be a better way for babies to fly. What would economics of that look like.
+- Apex for hosting / deploying a static site to your own S3 bucket. Save your own stuff, sign up for a hosting route53 entry. 50c per month. Don't think about it.
+- Shell command generator / common use case guide.
+- Seatswap.io - coordinate seat swaps.
+- Code challenge site - halite for basic programming skills, connect companies and learners, something about lambda school. I think this might be hackerrank.
+- Uber for storage
+- Motorized land vehicle RC - simulate boat on water, rollers underneath, etc.
+- Hotel rooms with premium stuff on sale
+- Skiing - watch coordinated paths on 3d map through time using skitracks files
+- CX blog for all company experiences
+- Service to call and wait on hold for you, and call you when it's ready
+- AI for sorting grocery lists (group ketchup n mustard together)
+- Musician tipping app, because no one carries cash (QR code, straight to venmo? Just venmo?)
+- Thanks and sorry lights back of car
+- Queue line with finite amount of choices for switching lines - feeling of agency and order
+- Ad network across multiple sites with opt-ins to reasonable policies
+- Better map sharing service online
+- Installable window screens with flexible edges for tight fitting
+- Some twitter plugin whereby tweets get categorized using NLP / mechanical turks - to highlight likelihood a tweet is just signaling, actually true, based on user's past tweets and reliable past categorization
+- Computer vision for plant veins area analysis
+- Stackable rubber rings for storing pan lids
+- Hibachi for other cuisines
+- Customer discounts for helpful behavior
+    - Ride share - pay more faster arrival
+    - Scooters - incentivize parking within certain geofence for discounts
+    - Gas stations on highway - pay 3x for express line, those discounts get passed onto "bottom" line where gas is commensurately cheaper. take advantage of people in rush, willing to pay.
+- A tiny RGB LED connected to a watch battery is a great and cheap always-on nightlight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -27,7 +27,7 @@ I'm scrappy, resourceful, can own and manage projects and products, and am ready
 <p style="font-size:.6rem;">2019-01 - present</p>
 
 - Built [lookmlint](https://github.com/warbyparker/lookmlint), the first open-source linter for LookML
-- Built data lineage graph during hackathon for mapping hundreds of tables, jobs, build processes, and Looker explores
+- Built data lineage graph during hackathon for understanding dependencies between hundreds of tables, jobs, build processes, and Looker explores
 - [Partnered with Codecademy](https://news.codecademy.com/data-engineer-warby-parker/) to help develop their "Learn SQL from Scratch" capstone project
 
 
@@ -37,6 +37,7 @@ I'm scrappy, resourceful, can own and manage projects and products, and am ready
 
 - Migrated various extensive spreadsheet workflows into robust SQL data models
 - Built Pipes during a hackathon, a heavily-used internal tool for moving data from spreadsheets to Looker to cloud storage, etc automatically and via a Slack bot
+- Streamlined SQL build processes by migrating to [dbt](https://getdbt.com)
 - Added 40+ business users to our GitHub org for developing LookML
 - Built Python library of clients for commonly-used internal tools such as Google Sheets, Looker, BigQuery, and Drive
 
@@ -109,10 +110,11 @@ I'm scrappy, resourceful, can own and manage projects and products, and am ready
 ### BI
 
 - Looker
+- Dimensional data modeling
+- dbt
 - PostgreSQL
 - MySQL
-- Dimensional data modeling
-- Spreadsheets
+- Google Sheets / Excel
 
 ### Etc
 

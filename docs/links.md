@@ -145,3 +145,4 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - https://github.com/TrillCyborg/fullstack
 - https://observablehq.com/@d3/bar-chart-race-explained
 - https://sites.uci.edu/inertialobserver/mathematics-for-physics-crash-course/
+- https://github.com/VGraupera/1on1-questions

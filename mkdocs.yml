@@ -5,14 +5,17 @@ nav:
   - home: index.md
   - ideas: ideas.md
   - tech notes:
+    - bigquery: bigquery.md
     - new machine: new_machine.md
     - git: git.md
-    - telnet: telnet.md
+    - docker: docker.md
     - vim: vim.md
     - s3 site: s3_site.md
+    - telnet: telnet.md
   - lists:
     - karaoke: karaoke.md
     - groceries: groceries.md
+    - travel: travel.md
     - links: links.md
   - more:
     - mtg arena on aws: mtg-arena-on-aws.md

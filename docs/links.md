@@ -145,3 +145,10 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - https://github.com/TrillCyborg/fullstack
 - https://observablehq.com/@d3/bar-chart-race-explained
 - https://sites.uci.edu/inertialobserver/mathematics-for-physics-crash-course/
+- https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+- https://superorganizers.substack.com/p/how-to-build-a-learning-machine
+- https://en.wikipedia.org/wiki/Wikipedia:Vital_articles
+- https://tiddlywiki.com/
+- https://landgreen.github.io/physics/index.html
+- jq tutorial https://mosermichael.github.io/jq-illustrated/dir/content.html
+

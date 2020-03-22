@@ -146,4 +146,3 @@ Proof-of-concept for having a list ready to hand at the grocery store and hoping
 - [ ] scotch
 - [ ] vodka
 - [ ] rum
-

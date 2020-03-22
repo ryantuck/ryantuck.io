@@ -151,4 +151,4 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - https://tiddlywiki.com/
 - https://landgreen.github.io/physics/index.html
 - jq tutorial https://mosermichael.github.io/jq-illustrated/dir/content.html
-
+- https://github.com/VGraupera/1on1-questions

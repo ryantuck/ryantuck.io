@@ -9,7 +9,7 @@ jobs:
       - run:
           name: install mkdocs and awscli
           command: |
-            sudo pip install mkdocs mkdocs-material awscli
+            sudo pip install mkdocs==1.0.4 mkdocs-material awscli
       - run:
           name: build site
           command: |

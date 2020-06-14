@@ -2,38 +2,9 @@
 
 Plenty of ideas, free for sharing, because execution is the hard part.
 
-## Physical
-
-### Good book holder
-
-I like physical books. I hate sprawling out my fingers under a book. I hate not being able to lie down and just read a book, especially a heavy boy.
-
-Something elegant and physical that would hold a book open and hold its pages back. Page turning would be trivial. Could have a handle to hold instead.
-
-Ideally it could have a thin-enough form factor that just hooking onto the book like a bookmark or something would be acceptable.
-
-Worst case, make something that can prop up on a table.
-
-### One-handed bowl lighter
-
-If one were to partake in smoking CBD in a bowl, I might imagine that one might want to be able to do so with one hand.
-
-One may even desire to construct such an object such that it may clip onto said piece.
-
-### Nuanced shower handle
-
-Solves the problem of having a tiny range of shower handle available to access reasonable temperatures.
-
-Use some sort of non-linear gear system on a shower handle to make 90% of the handle swing within reasonable shower temps, then rapidly go hot or cold at the ends of the swing.
-
-This would apply equally well to gas stoves, sink faucets, etc.
-
-My guess is that these sorts of gear systems have existed for a hundred years or more, but clearly haven't been applied to showers, where they would be helpful.
-
-
 ## Code
 
-### Dynamic visualizations
+### Dynamic visualizations for sound
 
 Generate dynamic video based on sounds inputs. This seems really accessible. Unclear why auto-pattern-gen video isn't more common, especially at clubs etc.
 
@@ -110,6 +81,35 @@ Open source program generation. Provide configurable controls. Could be a hit at
 Planetarium-style setup could be cool. Single-person or group-of-friends setup.
 
 
+## Physical
+
+### Good book holder
+
+I like physical books. I hate sprawling out my fingers under a book. I hate not being able to lie down and just read a book, especially a heavy boy.
+
+Something elegant and physical that would hold a book open and hold its pages back. Page turning would be trivial. Could have a handle to hold instead.
+
+Ideally it could have a thin-enough form factor that just hooking onto the book like a bookmark or something would be acceptable.
+
+Worst case, make something that can prop up on a table.
+
+### One-handed bowl lighter
+
+If one were to partake in smoking CBD in a bowl, I might imagine that one might want to be able to do so with one hand.
+
+One may even desire to construct such an object such that it may clip onto said piece.
+
+### Nuanced shower handle
+
+Solves the problem of having a tiny range of shower handle available to access reasonable temperatures.
+
+Use some sort of non-linear gear system on a shower handle to make 90% of the handle swing within reasonable shower temps, then rapidly go hot or cold at the ends of the swing.
+
+This would apply equally well to gas stoves, sink faucets, etc.
+
+My guess is that these sorts of gear systems have existed for a hundred years or more, but clearly haven't been applied to showers, where they would be helpful.
+
+
 
 ## Apps
 
@@ -132,6 +132,8 @@ I want to make inboxing thoughts easier. The lightest app possible, automaticall
 Something that hooks into various jira, github, etc projects and allows you to create edges between nodes. Tie tickets to PRs, etc, have a nice interface for managing the graph. Provide chronological interface as well.
 
 Something interesting about this app not providing any more functionality than basically foreign-keying to other systems and tying things together.
+
+Alternatively, base of app could simply provide nodes as basic text boxes, and provide linking capabilities. This is kind of roam, but have some default `JiraTicketNode`s etc available for more power.
 
 ### Better spreadsheets
 

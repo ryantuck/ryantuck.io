@@ -8,6 +8,12 @@ get brew http://brew.sh/
 
 `brew install git python vim tmux postgresql node bash-completion tree`
 
+### install `brew-autoupdate`
+
+Auto-update `brew` every 24h so you don't need to wait for it to update whenever you need to use it.
+
+https://github.com/DomT4/homebrew-autoupdate
+
 ## keyboard
 
 ### key bindings
@@ -87,6 +93,10 @@ Add the following to `~/.config/karabiner/karabiner.json` (path created only onc
     ]
 }
 ```
+
+For windows-default keyboards, configure the following:
+
+`right/left_alt/gui` swaps in simple modifications, and select device in device list.
 
 ### key repeat rate
 

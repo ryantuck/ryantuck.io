@@ -152,3 +152,24 @@ Ever-growing list of neat links I find while surfing the world wide web.
 - https://landgreen.github.io/physics/index.html
 - jq tutorial https://mosermichael.github.io/jq-illustrated/dir/content.html
 - https://github.com/VGraupera/1on1-questions
+- https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf
+- https://docs.climateinteractive.org/projects/en-roads/en/latest/index.html
+- http://blog.hydromatic.net/2020/02/25/morel-a-functional-language-for-data.html
+- https://gitexplorer.com/
+- https://explorabl.es/
+- https://www.dolthub.com/
+- https://observablehq.com/@d3/learn-d3
+- https://andybrewer.github.io/mvp/
+- https://openrefine.org/ interface for cleaning data
+- https://klinger.io/post/71640845938/dont-drown-in-email-how-to-use-gmail-more
+- https://privacy.com
+- gilbert strang lin alg https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+- https://ciechanow.ski/gears/
+- https://donotpay.com/
+- https://github.com/marketplace/leanboard
+- work different https://www.notion.so/Work-Different-fdfe21a2c7584b2aa9e7bae03695d73e
+- api practices if you hate your customers https://queue.acm.org/detail.cfm?ref=rss&id=3375635
+- laplace transform https://www.youtube.com/watch?v=n2y7n6jw5d0
+- hitchens free speech https://www.youtube.com/watch?time_continue=2&v=jyoOfRog1EM
+- https://github.com/click-contrib/click-man
+- http://nodegh.io/

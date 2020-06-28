@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "codex"
+
+[params]
+  github = "ryantuck"
+  twitter = "ryntck"
+
+[[menu.main]]
+    identifier = "/"
+    name = "/"
+    title = "/"
+    url = "/"
+
+[[menu.main]]
+    identifier = "resume"
+    name = "resume"
+    title = "resume"
+    url = "/resume.pdf"

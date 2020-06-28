@@ -1,11 +1,8 @@
-install_requirements:
-	pip3 install -r requirements.txt
-
 serve:
-	mkdocs serve
+	hugo serve
 
 build:
-	mkdocs build
+	rm -r public && hugo
 
 deploy: build
-	aws --profile rt s3 sync site s3://ryantuck.io
+	aws --profile rt s3 sync public s3://ryantuck.io

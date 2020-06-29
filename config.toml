@@ -1,11 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://ryantuck.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ryan Tuck"
 theme = "codex"
 
 [params]
-  github = "ryantuck"
-  twitter = "ryntck"
+  github = "https://github.com/ryantuck"
+  twitter = "https://twitter.com/ryntck"
 
 [[menu.main]]
     identifier = "/"

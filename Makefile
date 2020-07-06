@@ -1,3 +1,6 @@
+compile:
+	python3 compile.py
+
 serve:
 	hugo serve
 

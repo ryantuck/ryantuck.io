@@ -1,0 +1,25 @@
+baseURL: http://ryantuck.io/
+languageCode: en-us
+title: Ryan Tuck
+theme: codex
+
+params:
+  github: "https://github.com/ryantuck"
+  twitter: "https://twitter.com/ryntck"
+
+menu:
+  main:
+
+    - identifier: /
+      name: /
+      title: /
+      url: /
+
+    - identifier: resume
+      title: resume
+      name: resume
+      url: /resume.pdf
+
+    - identifier: notes
+      name: notes
+      url: /index

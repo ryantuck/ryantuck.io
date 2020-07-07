@@ -4,8 +4,10 @@ Compile mdzk docs to hugo-friendly format.
 Get all files in specific dir by default.
 
 TODO
-- Figure out nav
 - Compilation not preserving whitespace in outlines
+- Support marking notes as private, disable links to them
+- Generate backlinks
+- Tags ending in a period or comma aren't recognized
 """
 from dataclasses import dataclass
 import os

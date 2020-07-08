@@ -38,6 +38,9 @@ class Note:
     def compiled_body(self):
         return flesh_out_note(self.note_name())
 
+    def is_private(self):
+        return '#private' in self.compiled_body()
+
 
 def _is_tag(word):
     return word.startswith('[[') and word.endswith(']]')
@@ -89,6 +92,8 @@ def compile_notes():
     os.makedirs(COMPILED_DIR)
     for filename in notes():
         n = Note(filename=filename)
+        if n.is_private():
+            continue
         with open(f"{COMPILED_DIR}/{n.note_name()}.md", "w") as f:
             print(os.path.join(DOCS_DIR, n.filename))
             f.write(n.compiled_body())

@@ -1,6 +1,6 @@
 ---
 heading: "Ryan Tuck"
-subheading: "Data Engineering. Zettelkasten. Software. Hardware. Biotech. Physics. Philosophy. Math. Politics. Economics. McDonalds."
+subheading: "Breadth-first-search by default. Data engineer by day. Down to chat zettelkasten, software, hardware, physics, philosophy, math, politics, economics, biotech, crypto, and McDs."
 handle: "ryntck"
 ---
 

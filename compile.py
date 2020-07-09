@@ -76,7 +76,7 @@ def compile_notes():
     edges = [(n.note_name(), t) for n in valid_notes for t in n.tags()]
 
     for n in valid_notes:
-        backlinks = [e[0] for e in edges if e[1] == n.note_name()]
+        backlinks = sorted(set([e[0] for e in edges if e[1] == n.note_name()]))
         with open(f"{COMPILED_DIR}/{n.note_name()}.md", "w") as f:
             print(os.path.join(DOCS_DIR, n.filename))
             f.write(n.compiled_body(backlinks))

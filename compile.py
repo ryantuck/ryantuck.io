@@ -1,5 +1,14 @@
 """
 Compile markdown notes to hugo-friendly format.
+
+Get all files in specific dir by default.
+
+TODO
+- Compilation not preserving whitespace in outlines
+- Support marking notes as private, disable links to them
+- Generate backlinks
+- Tags ending in a period or comma aren't recognized
+- Avoid ## private section as well as ## inbox, treat as sections
 """
 from dataclasses import dataclass
 import os

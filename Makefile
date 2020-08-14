@@ -1,3 +1,9 @@
+install:
+	brew install hugo
+
+install_themes:
+	git submodule update --init --recursive
+
 compile:
 	python3 compile.py
 

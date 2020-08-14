@@ -15,11 +15,6 @@ menu:
       title: /
       url: /
 
-    - identifier: resume
-      title: resume
-      name: resume
-      url: /resume.pdf
-
     - identifier: notes
       name: notes
       url: /notes/start

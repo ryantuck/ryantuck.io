@@ -18,3 +18,7 @@ menu:
     - identifier: notes
       name: notes
       url: /notes/start
+
+    - identifier: roam
+      name: roam
+      url: /notes/roam

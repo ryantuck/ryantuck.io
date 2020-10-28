@@ -14,11 +14,15 @@ menu:
       name: /
       title: /
       url: /
-
-    - identifier: notes
-      name: notes
-      url: /notes/start
+      weight: 1
 
     - identifier: roam
       name: roam
+      weight: 10
       url: /notes/roam
+
+    - identifier: notes
+      name: notes
+      weight: 100
+      url: /notes/start
+
